@@ -1,0 +1,5 @@
+---
+- version: v1alpha1
+  group: cloudfitsoftware.com
+  kind: JiraSoftware
+  chart: helm-charts/jirasoftware
